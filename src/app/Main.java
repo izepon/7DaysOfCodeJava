@@ -5,7 +5,7 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
-class SevenDaysOfCodeJava {
+class SevenDaysOfCodeJavaDay {
 
 	public static void main(String[] args) throws Exception {
 
